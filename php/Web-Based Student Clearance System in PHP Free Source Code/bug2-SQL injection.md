@@ -2,17 +2,17 @@
 
 ## Basic Information
 
-**[Bug Reporter]:**DililLearngent
+**[Bug Reporter]:** DililLearngent
 
-**[Application Vendors]:**https://www.sourcecodester.com/php/15627/web-based-student-clearance-system.html
+**[Application Vendors]:** https://www.sourcecodester.com/php/15627/web-based-student-clearance-system.html
 
 **[Test Environment]:** windows10+apache+php7.0
 
 **[Install]:**
 
-1. start ***\*Apache\**** and ***\*MySQL\****.
+1. start **Apache** and **MySQL**.
 
-2. **Extract** the **downloaded source code \**zip\** file**.
+2. **Extract** the downloaded source code **zip** file.
 
 3. **Copy** the extracted source code folder and **paste** it into the **www directory**.
 
@@ -40,13 +40,13 @@
 
 1. Test whether there is SQL injection in the login interface, the user name is 1' or 1=1#, the password is any value, and the login is successful after the test
 
-   ![](..\..\img\20230330133945.png)
+   ![](../../img/20230330133945.png)
 
-   ![](..\..\img\20230330134206.png)
+   ![](../../img/20230330134206.png)
 
 2. If the user name uses -1' or 1=2#, and the password is arbitrary, the login will fail
 
-   ![](..\..\img\20230330134322.png)
+   ![](../../img/20230330134322.png)
 
 3. Therefore, two different page responses will be returned according to whether the condition behind or is true or not. There is a Boolean blind note, and the relevant content in the database can be blasted by constructing scripts
 
