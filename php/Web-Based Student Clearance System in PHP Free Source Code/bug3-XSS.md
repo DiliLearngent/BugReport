@@ -2,17 +2,17 @@
 
 ## Basic Information
 
-**[Bug Reporter]:**DililLearngent
+**[Bug Reporter]:** DililLearngent
 
-**[Application Vendors]:**https://www.sourcecodester.com/php/15627/web-based-student-clearance-system.html
+**[Application Vendors]:** https://www.sourcecodester.com/php/15627/web-based-student-clearance-system.html
 
 **[Test Environment]:** windows10+apache+php7.0
 
 **[Install]:**
 
-1. start ***\*Apache\**** and ***\*MySQL\****.
+1. start **Apache** and **MySQL**.
 
-2. **Extract** the **downloaded source code \**zip\** file**.
+2. **Extract** the downloaded source code **zip** file.
 
 3. **Copy** the extracted source code folder and **paste** it into the **www directory**.
 
@@ -40,11 +40,11 @@
 
 1. Add a student, the Fullname is `<script>alert(1)</script>`, after the addition is successful, a pop-up window will appear on the page
 
-   ![](..\..\img\20230330135401.png)
+   ![](../../img/20230330135401.png)
 
-   ![](..\..\img\20230330135525.png)
+   ![](../../img/20230330135525.png)
 
-   ![](..\..\img\20230330135603.png)
+   ![](../../img/20230330135603.png)
 
 
 **[code analysis]:**
