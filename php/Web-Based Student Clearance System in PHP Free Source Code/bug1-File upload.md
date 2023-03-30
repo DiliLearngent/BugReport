@@ -2,17 +2,17 @@
 
 ## Basic Information
 
-**[Bug Reporter]:**DililLearngent
+**[Bug Reporter]:** DililLearngent
 
-**[Application Vendors]:**https://www.sourcecodester.com/php/15627/web-based-student-clearance-system.html
+**[Application Vendors]:** https://www.sourcecodester.com/php/15627/web-based-student-clearance-system.html
 
 **[Test Environment]:** windows10+apache+php7.0
 
 **[Install]:**
 
-1. start ***\*Apache\**** and ***\*MySQL\****.
+1. start **Apache** and **MySQL**.
 
-2. **Extract** the **downloaded source code \**zip\** file**.
+2. **Extract** the downloaded source code **zip** file.
 
 3. **Copy** the extracted source code folder and **paste** it into the **www directory**.
 
@@ -42,15 +42,15 @@
 
 2. After the login is successful, find the operation interface for editing photo
 
-   ![](..\..\img\20230330100933.png)
+   ![](../../img/20230330100933.png)
 
 3. Upload a php suffix file and capture the package
 
-   ![](..\..\img\20230330102415.png)
+   ![](../../img/20230330102415.png)
 
 4. Access the path after uploading the avatar:http://localhost/student_clearance_system_Aurthur_Javis/uploads/shell.php
 
-   ![](..\..\img\20230330102657.png)
+   ![](../../img/20230330102657.png)
 
 5. In the same way, if you upload a sentence Trojan horse, you can get the shell
 
