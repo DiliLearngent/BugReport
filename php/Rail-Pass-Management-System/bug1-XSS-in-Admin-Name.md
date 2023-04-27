@@ -2,11 +2,11 @@
 
 ## Basic Information
 
-**[Bug Reporter]:**DiliLearngent
+**[Bug Reporter]:** DiliLearngent
 
-**[Application Vendors]:**`https://phpgurukul.com/rail-pass-management-system-using-php-and-mysql/`
+**[Application Vendors]:** `https://phpgurukul.com/rail-pass-management-system-using-php-and-mysql/`
 
-**[Test Environment]:**windows10+apache+php5.6+mysql5.5
+**[Test Environment]:** windows10+apache+php5.6+mysql5.5
 
 **[Install]:**
 
@@ -31,11 +31,11 @@
 
 ## Bug Information
 
-**[Vulnerability type]:**Stored XSS
+**[Vulnerability type]:** Stored XSS
 
-**[Vulnerability Url]:**`http://localhost/rpms/admin/admin-profile.php`
+**[Vulnerability Url]:** `http://localhost/rpms/admin/admin-profile.php`
 
-**[Vulnerability Location]:**rpms/admin/admin-profile.php
+**[Vulnerability Location]:** rpms/admin/admin-profile.php
 
 **[Vulnerability Test]:**
 
