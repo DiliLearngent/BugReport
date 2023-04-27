@@ -6,7 +6,7 @@
 
 **[Application Vendors]:** `https://phpgurukul.com/rail-pass-management-system-using-php-and-mysql/`
 
-**[Test Environment]: ** windows10+apache+php5.6+mysql5.5
+**[Test Environment]:** windows10+apache+php5.6+mysql5.5
 
 **[Install]:**
 
