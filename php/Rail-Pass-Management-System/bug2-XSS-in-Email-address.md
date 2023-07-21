@@ -6,7 +6,7 @@
 
 **[Application Vendors]:** `https://phpgurukul.com/rail-pass-management-system-using-php-and-mysql/`
 
-**[Affected Version]:**Rail Pass Management System V1.0
+**[Affected Version]:** Rail Pass Management System V1.0
 
 **[Test Environment]:** windows10+apache+php5.6+mysql5.5
 
