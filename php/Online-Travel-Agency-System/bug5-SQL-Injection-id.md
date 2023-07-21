@@ -6,6 +6,8 @@
 
 **[Application Vendors]:**  https://www.sourcecodester.com/online-travel-agency-system-using-php.html
 
+**[Affected Version]:**Online Travel Agency System V1.0
+
 **[Test Environment]:**  windows10+apache+php7.0
 
 **[Install]:**
