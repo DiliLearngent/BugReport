@@ -1,4 +1,4 @@
-# [Online Travel Agency System-File upload vulnerabilities-insert.php]
+# [Online Travel Agency System-Stored XSS-insert.php]
 
 ## Basic Information
 
