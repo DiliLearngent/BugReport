@@ -77,7 +77,7 @@
    
    ```
 
-3. Visit ``http://localhost/id_generator/admin/?page=system_info`, and a pop-up window appears.
+3. Visit `http://localhost/id_generator/admin/?page=system_info`, and a pop-up window appears.
 
    ![](../../img/20240610180019.png)
 
